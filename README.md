@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moh-oppa
-- 👀 I’m interested in breaking into the world of Tech
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in exploring the world of Tech
+- 🌱 I find Data Analytics interesting 
 
   I hope to have a good time learning
 
