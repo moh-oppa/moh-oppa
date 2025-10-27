@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring the world of Tech
 - 🌱 I find Data Analytics interesting 
 
-  I hope to have a good time learning
+  I hope to have a good time learning !!
 
 <!---
 moh-oppa/moh-oppa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
