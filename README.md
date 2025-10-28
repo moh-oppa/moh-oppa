@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moh-oppa
 - 👀 I’m interested in exploring the world of Tech
-- 🌱 I find Data Analytics interesting 
+- 🌱 I find Data Analytics interesting and worth learning
 
   I hope to have a good time learning !!
 
