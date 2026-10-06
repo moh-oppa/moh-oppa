@@ -41,7 +41,7 @@ window-style subqueries, stored procedures and string functions.
 
 ## 📈 Also on here
 - [leetcodeex](https://github.com/moh-oppa/leetcodeex): data structures and algorithms practice
-- [mini_projects](https://github.com/moh-oppa/mini_projects): small Python programs from when I was learning
+- [mini_projects](https://github.com/moh-oppa/mini_projects): small and simple Python projects
 
 ## 📫 Contact
 - Email: fasholakorede01@example.com
